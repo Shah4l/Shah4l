@@ -6,7 +6,7 @@ India
 ---
 
 ## About Me
-I am learning Data Science.
+I am a BCA graduate currently learning Data Science, with a strong interest in data analysis, machine learning, and data-driven problem solving.
 
 ---
 
@@ -14,7 +14,8 @@ I am learning Data Science.
 <a href="https://www.linkedin.com/in/shahal-p-b887a3263" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-
-📧 **Email:** shahal.p087@gmail.com
+<a href="mailto:shahal.p087@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+</a>
 
 
