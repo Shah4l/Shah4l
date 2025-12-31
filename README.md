@@ -1,4 +1,4 @@
-# Shahal
+# Shahal P
 
 **Data Science | Python | Machine Learning | Power BI | Deep Learning | excel | Tableau**  
 India
